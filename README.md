@@ -119,3 +119,6 @@ Même en natif :
 
 Les secrets peuvent être extraits
 Le reverse engineering reste possible
+
+<img width="707" height="860" alt="5" src="https://github.com/user-attachments/assets/2279ce59-2821-486e-8dc2-b3f715dff254" />
+
